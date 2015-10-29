@@ -90,7 +90,6 @@ window.document.addEventListener('dizmoready', function() {
     };
     ws.onopen = function() {
         window.console.log("onopen called");
-        //ws.send("Hello!");
     };
 });
 
