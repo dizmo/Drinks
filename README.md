@@ -17,3 +17,4 @@ Example:
 The IP-Address of the Internet of Drinks Server
 
 It's also a good idea to drag a colorful image of the configured drink to the dizmo's front side. Then, all you need to do is to click/tap the front side of the dizmo and your drink will be dispensed!
+
